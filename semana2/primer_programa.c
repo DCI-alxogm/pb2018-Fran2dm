@@ -4,10 +4,17 @@
 
 int main()
 {
-       int edad;
- printf("Hola José\n");
- printf("Este es el 1er programa del curso");
- printf("21: \n);
+       int edad,edad2;
+       char nombre[20];
+ printf("¿Cómo te llamas?");
+ scanf("%s", &nombre[20])
+ printf("Este es el 1er programa del curso\n");
+ printf("Dime tu edad\n");
  scanf("%i",&edad);
- printf("/nTu edad es: %i: \n",edad);
-return 0;v
+ edad2=edad+10;
+ printf("\n%s edad en el 2028 será:%i: \n",nombre, edad2);
+
+
+return 0;
+
+}

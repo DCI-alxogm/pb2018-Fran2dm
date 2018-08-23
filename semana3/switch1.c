@@ -41,18 +41,17 @@
    scanf("%f",&y);
   if(x>=0 && y>=0){
    printf("El punto que estas buscando se encuentra en el cuadrante I\n");
- r=sqrt(x); 
-   printf("Su posición en r es %f\n",r);
+ r=sqrt(pow(x,2)+pow(y,2)); 
+   printf("La magnitud del vector es %f\n",r);
  t=atan(y/x);
  s=t*57.2958;
-                   
-   printf("Su angulo de inclinación con respecto a x es %f\n",s);
-   }else  if(x<0 && y>0)         
-                 {
-   printf("El punto que estas buscando se encuentra en el cuadrante II\n");
-   printf("Su posición en r es %f\n",r);
+   printf("El ángulo que estás buscando es %f\n",s);
+  }if(x<0 && y>0){
+   printf("La magnitud del vector es %f\n",r);
+   r=sqrt(pow(x,2)+pow(y,2));
    u=180-s;
-   
+  printf("El ángulo que estás buscando es %f\n",u); 
+    
   
    }
         

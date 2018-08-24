@@ -16,7 +16,7 @@ Tk=Tc+273.15;
 printf("Esta es tu primer temperatura %f\n",Tk);
 Tf=(Tc*1.8)+32;
 printf("Esta es tu segunda temperatura %f\n",Tf);
-printf("Ahora vamos a regresar de farenheit a centigrados");
+printf("Ahora vamos a regresar de farenheit a centigrados\n");
 Tc=(Tf-32)/1.8;
 printf("Esta es la temperatura que ingresaste%f\n",Tc);
 

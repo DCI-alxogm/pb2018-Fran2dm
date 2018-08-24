@@ -17,7 +17,7 @@ printf("z=exp(-x)\n");
 z=exp((-1)*x);
 printf("Este es el resultado%f\n",z);
 printf("Vamos a realizar la segunda operación\n");
-printf("w=cos(x)+2tan(x/2)\n");
+printf("w=cos(u)+2tan(u/2)\n");
 w=(cos(u)+2*tan(u/2));
 printf("Este es el resultado%f\n",w);
 printf("Vamos a realizar la tercera operación\n");

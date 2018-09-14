@@ -1,0 +1,9 @@
+El valor de x es 10.000000
+El valor de la exponencial de x es 22026.464844
+El valor del logaritmo de x es 2.302585
+El valor del seno de x es -0.544021
+El valor del coseno de x es -0.839072El valor de la raíz de x es 3.162278El valor de x es 20.000000
+El valor de la exponencial de x es 485165184.000000
+El valor del logaritmo de x es 2.995732
+El valor del seno de x es 0.912945
+El valor del coseno de x es 0.408082El valor de la raíz de x es 4.472136

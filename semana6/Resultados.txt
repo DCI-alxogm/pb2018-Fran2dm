@@ -1,0 +1,11 @@
+La cantidad de alumnos que ingresaste es 5 de los cuales son 2 hombres y 3 mujeres
+Los alumnos en primer semestre son 1
+Los alumnos en segundo semestre son 1
+Los alumnos en tercer semestre son 1
+Los alumnos en cuarto semestre son 0
+Los alumnos en quinto semestre son 1
+Los alumnos en sexto semestre son 0
+Los alumnos en octavo semestre son 0
+Los alumnos en noveno semestre son0
+La edad promedio de los alumnos es 19.400000
+El promedio de las calificaciones de todos los estudiantes es 8.400000

@@ -1,0 +1,21 @@
+El valor de f(x) es: 1728.000000
+El valor de tu integral es 2684.052734El valor de f(x) es: 2744.000000
+El valor de tu integral es 7104.068848El valor de f(x) es: 4096.000000
+El valor de tu integral es 13884.242188El valor de f(x) es: 5832.000000
+El valor de tu integral es 23744.457031El valor de f(x) es: 8000.000000
+El valor de tu integral es 37500.832031El valor de f(x) es: 10648.000000
+El valor de tu integral es 56065.253906El valor de f(x) es: 13824.000000
+El valor de tu integral es 80446.171875El valor de f(x) es: 17576.000000
+El valor de tu integral es 111746.851562El valor de f(x) es: 21952.000000
+El valor de tu integral es 151167.890625El valor de f(x) es: 27000.000000
+El valor de tu integral es 200005.578125El valor de f(x) es: 32768.000000
+El valor de tu integral es 259651.593750El valor de f(x) es: 39304.000000
+El valor de tu integral es 331593.656250El valor de f(x) es: 46656.000000
+El valor de tu integral es 417415.875000El valor de f(x) es: 54872.000000
+El valor de tu integral es 518800.156250El valor de f(x) es: 64000.000000
+El valor de tu integral es 637520.375000El valor de f(x) es: 74088.000000
+El valor de tu integral es 775447.750000El valor de f(x) es: 85184.000000
+El valor de tu integral es 934553.187500El valor de f(x) es: 97336.000000
+El valor de tu integral es 1116898.500000El valor de f(x) es: 110592.000000
+El valor de tu integral es 1324646.500000El valor de f(x) es: 125000.000000
+El valor de tu integral es 1560050.125000
